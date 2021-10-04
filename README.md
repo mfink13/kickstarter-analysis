@@ -13,7 +13,7 @@
 ### Analysis of Outcomes Based on Launch Date
 
 As visualized in the following graphic, campaigns had the highest rate of success between the months of April and August with May and June displaying the highest rate of successful campaigns. This chart was made by analyzing the start date of each campaign in the theater category and comparing the successful, failed, and canceled campaigns.
-![Theater_Outcomes_vs_Launch.png](Kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 	
