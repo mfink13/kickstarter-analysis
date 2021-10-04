@@ -18,7 +18,7 @@ As visualized in the following graphic, campaigns had the highest rate of succes
 ### Analysis of Outcomes Based on Goals
 	
   The following graphic is a visualization of the analysis of plays’ outcomes based on campaign goals. This information helps to determine if the outcome of the goals is affected by the dollar amount of the goal.   
-![Outcomes_vs_Goals.png](Kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 	
